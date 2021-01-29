@@ -62,14 +62,14 @@ p {
     background-position: center;
 }
 
-/* Applies to topics outlined in the navigation bar */
+/* Applies to topics in the navigation bar */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Removed classes and used already-established id's instead */
+/* I removed classes and used already-established id's instead */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
