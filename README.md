@@ -16,3 +16,15 @@ In this challenge, the CSS code needs to be cleaned up and notated. The HTML cod
 *   Check that heading attributes fall in sequential order.
 *   Check that HTML elements follow a logical structure.
 *   Images need accessible alt attributes and meet accessability standards.
+
+
+## The Result
+---------------
+After refactoring the code, the deployed website will be completely functional. Please see the following screenshot and link to the updated webpage:
+
+<img src="./assets/images/final-screenshot.png"
+    style="float: left; margin-left: 10px;" />
+
+
+https://savbennett8.github.io/savbennett8-Horiseon-Challenge/
+
